@@ -1,5 +1,5 @@
 import axios from "axios";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import Card from "../../component/card/Card";
 import Banner from "../../component/homeBanner/Banner"
 import Search from "../../component/search/Search"
