@@ -40,8 +40,6 @@ const Home = () => {
       }
     }
 
-    console.log(movieData, 'moviedata')
-
   return (
     <PageWrapper>
       <Banner />
